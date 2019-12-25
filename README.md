@@ -1,4 +1,5 @@
 # Labs_IU8-32
+# Пуголовкин Евгений Геннадьевич ИУ8-32
 # C++
 
 https://github.com/bmstu-iu8-cpp-sem-3/lab-01-parser
